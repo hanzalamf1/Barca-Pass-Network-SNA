@@ -1,5 +1,5 @@
 # Barça Pass Network Analysis - Social Network Analysis (SNA)
-
+ 
 ## Description (English):
 
 This project contains data from matches between Barça and teams like **Getafe**, **Real Madrid**, and **Atletico Madrid**. Additionally, the average of the **2018-2019 season's matches** has been calculated, followed by data cleaning and visualization.

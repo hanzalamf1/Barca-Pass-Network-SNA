@@ -42,7 +42,7 @@ This project demonstrates how **Social Network Analysis (SNA)** can be applied i
 
 Bu proje, Barça'nın **Getafe**, **Real Madrid** ve **Atletico Madrid** gibi takımlarla yaptığı maçlardan alınan verileri içerir. Ayrıca, **2018-2019 sezonu maçlarının** ortalamaları hesaplanmış, ardından veri temizliği ve görselleştirme işlemleri gerçekleştirilmiştir.
 
-![ÖRNEK KULLANIM](images/EX.JPG)
+
 
 Bu çalışma, **Sosyal Ağ Analizi (Social Network Analysis - SNA)** temel alınarak yapılmıştır. Bu analizde, oyuncular arasındaki etkileşimlere ve paslara odaklanılmıştır. Projede şu analiz ve hesaplamalar yapılmıştır:
 
@@ -52,7 +52,8 @@ Bu çalışma, **Sosyal Ağ Analizi (Social Network Analysis - SNA)** temel alı
 ### Genel Ölçütler:
 - **Genel ağ merkeziyeti** ve **bağlantı yoğunluğu** hesaplanmış, ağın genel yapısına ilişkin çıkarımlar yapılmıştır. Bu hesaplamalar, **genel modelin** bir parçasıdır.
 
----
+---![Örnek Kullanım](https://github.com/user-attachments/assets/a8e788f0-e871-4d1e-9219-26e31ed4f46b)
+
 
 ## Proje Detayları:
 
